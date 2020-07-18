@@ -1,7 +1,7 @@
-### Hi there 👋,I am Gourav singh
+### Hi there 👋,I am Gourav singh!
 
 - 🔭 3 🌟 [@Codechef](https://github.com/CodeChef-Admin) (1667) | Front-end Developer | Freshman Computer Science
-- 🌱 C++ | @reactjs | NodeJs...
+- 🌱 C++ | ReactJs | NodeJs...
 - 📫 How to reach me: [dmgss2580@gmail.com](mailto:dmgss2580@gmail.com)
 
 
