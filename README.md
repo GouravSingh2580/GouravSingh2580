@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my [E-com Merchandise](https://taufp.com/password)
 
-- 🎗 Support me on [Paypal](support me on patreon)
+- 🎗 Support me on [Paypal](https://paypal.me/manjudevi89200?locale.x=en_GB)
 
 - 👨‍💻 All of my projects are available at [https://gouravsingh.netlify.app/](https://gouravsingh.netlify.app/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dmgss2580@gmail.com**
 
-- ⚡ Fun fact **No-one can beat me in golgappa('Indian Watery Ball') competition.**
+- ⚡ Fun fact **No-one can beat me in pani-puri ('Indian Watery Ball') competition 😛**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
