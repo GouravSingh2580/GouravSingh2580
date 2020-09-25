@@ -7,8 +7,6 @@
 
 - 🎗 Support me on [Paypal](https://paypal.me/manjudevi89200?locale.x=en_GB)
 
-- 👨‍💻 All of my projects are available at [https://gouravsingh.netlify.app/](https://gouravsingh.netlify.app/)
-
 - 📝 I regulary write articles on [https://dev.to/gouravsingh2580](https://dev.to/gouravsingh2580)
 
 - 📫 How to reach me **dmgss2580@gmail.com**
