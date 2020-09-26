@@ -28,7 +28,7 @@
 <a href="https://dev.to/gouravsingh2580" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gouravsingh2580" height="30" width="30" /></a>
 <a href="https://twitter.com/gouravsingh2580" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gouravsingh2580" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/gouravsingh2580" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gouravsingh2580" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/gourav-singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="gourav-singh" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/11407877/gourav-singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="gourav-singh" height="30" width="30" /></a>
 <a href="https://codesandbox.com/gouravsingh2580" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="gouravsingh2580" height="30" width="30" /></a>
 <a href="https://fb.com/gourav.realm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gourav.realm" height="30" width="30" /></a>
 <a href="https://instagram.com/gourav.singh29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gourav.singh29" height="30" width="30" /></a>
