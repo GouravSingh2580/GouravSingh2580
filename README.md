@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Gourav singh</h1>
+<h1 align="center">Hi 👋, I'm Gourav </h1>
 <h3 align="center">ReactJs Developer | Quater-finalist GCJ'20 | 3🌟Codechef (1667)</h3>
+<br/>
+
+<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravsingh2580" alt="gouravsingh2580" /> </p>
 
