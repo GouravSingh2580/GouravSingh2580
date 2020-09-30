@@ -12,7 +12,7 @@
 
 - 🎗 Support me on [Paypal](https://paypal.me/manjudevi89200?locale.x=en_GB)
 
-- 📝 I regulary write articles on [https://dev.to/gouravsingh2580](https://dev.to/gouravsingh2580)
+- 📝 Blogs : [https://dev.to/gouravsingh2580](https://dev.to/gouravsingh2580)
 
 - 📫 How to reach me **dmgss2580@gmail.com**
 
