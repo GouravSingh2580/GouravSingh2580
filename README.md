@@ -1,5 +1,5 @@
 <h3>Hey 👋, I'm <a href="http://gouravsingh.netlify.app/">Gourav!</a></h3>
-<h3 align="center">Sometimes i dream about Arrays</h3>
+<h3 align="">Sometimes i dream about Arrays</h3>
 <br/>
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
