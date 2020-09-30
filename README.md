@@ -1,5 +1,5 @@
-<h1>Hey 👋, I'm Gourav </h1>
-<h3 align="center">ReactJs Developer | Quater-finalist GCJ'20 | 3🌟Codechef (1667)</h3>
+<h3>Hey 👋, I'm <a href="http://gouravsingh.netlify.app/">Gourav!</a></h3>
+<h3 align="center">Sometimes i dream about Arrays</h3>
 <br/>
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
