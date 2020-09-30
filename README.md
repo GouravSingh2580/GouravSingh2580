@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gourav </h1>
+<h1>Hey 👋, I'm Gourav </h1>
 <h3 align="center">ReactJs Developer | Quater-finalist GCJ'20 | 3🌟Codechef (1667)</h3>
 <br/>
 
