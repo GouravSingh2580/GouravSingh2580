@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravsingh2580" alt="gouravsingh2580" /> </p>
 
-- 🔭 I’m currently working on my [E-com Merchandise](https://taufp.com/password)
+- 🔭 I’m currently working on my [E-com Merchandise](https://bit.ly/3cl2Yf7)
 
 - 🎗 Support me on [Paypal](https://paypal.me/manjudevi89200?locale.x=en_GB)
 
