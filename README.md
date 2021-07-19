@@ -1,5 +1,5 @@
 <h3>Hey 👋, I'm <a href="http://gouravsingh.netlify.app/">Gourav!</a></h3>
-<h6 align="">Quater-Finalist Google CodeJam'20 | C'Per 3⭐ @codechef | ReactJs </h6>
+<h6 align="">Quater-Finalist Google CodeJam'20 | 4 ⭐ @codechef </h6>
 <br/>
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
