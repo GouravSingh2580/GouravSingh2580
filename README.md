@@ -1,5 +1,5 @@
 <h3>Hey 👋, I'm <a href="http://gouravsingh.netlify.app/">Gourav!</a></h3>
-<h6 align="">Quater-Finalist Google CodeJam'20 | 4 ⭐ @codechef </h6>
+<h6 align="">🚀</h6>
 <br/>
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
@@ -7,13 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravsingh2580" alt="gouravsingh2580" /> </p>
 
-- 🔭 I’m currently working on my [E-com Merchandise](https://bit.ly/3cl2Yf7)
-
 - 🎗 Support me on [Paypal](https://paypal.me/manjudevi89200?locale.x=en_GB)
-
-- 📝 Blogs : [https://dev.to/gouravsingh2580](https://dev.to/gouravsingh2580)
-
-- 📫 How to reach me **dmgss2580@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravsingh2580&layout=compact" alt="gouravsingh2580" /></p>
 
