@@ -4,10 +4,7 @@
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravsingh2580" alt="gouravsingh2580" /> </p>
-
-- 🎗 Support me on [Paypal](https://paypal.me/manjudevi89200?locale.x=en_GB)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravsingh2580&layout=compact" alt="gouravsingh2580" /></p>
 
