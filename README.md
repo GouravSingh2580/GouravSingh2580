@@ -1,4 +1,4 @@
-<h3>Hey 👋, I'm <a href="http://gouravsingh.vercel.app/">Gourav!</a></h3>
+<h3><a href="http://gouravsingh.vercel.app/">Hey 👋</a></h3>
 <h6 align="">🚀</h6>
 <br/>
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
